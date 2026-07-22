@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+# Environment
+.env
+# Logs
+logs/
+*.log
+# Uploads
+public/uploads/
+# Coverage
+coverage/
+# Build
+dist/
+# IDE
+.vscode/
+.idea/
+# OS Files
+.DS_Store
+Thumbs.db
+# npm
+package-lock.json
